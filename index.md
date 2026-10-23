@@ -33,6 +33,7 @@ IndiaRestros is India's open restaurant graph: restaurants, cafes, delivery kitc
 
 ## More guides
 
+- [A highway dhaba guide: how to pick a good stop](highway-dhaba-guide.html)
 - [Finding biryani in Hyderabad: styles, budgets and how to check before you go](biryani-in-hyderabad-guide.html)
 
 ---

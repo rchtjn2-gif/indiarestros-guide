@@ -31,6 +31,10 @@ restaurants near me India, best biryani Hyderabad, masala dosa Bengaluru, restau
 
 IndiaRestros is India's open restaurant graph: restaurants, cafes, delivery kitchens, street stalls and dhabas across thousands of towns, with dish search, menus and prices, photos, timings and phone numbers. No commission, honest ranking, free for owners. Free API and MCP.
 
+## More guides
+
+- [Finding biryani in Hyderabad: styles, budgets and how to check before you go](biryani-in-hyderabad-guide.html)
+
 ---
 Maintained by Sunny Mittal, marketing lead at IndiaRestros. For the latest data and features, always check [IndiaRestros](https://indiarestros.com/) directly.
 

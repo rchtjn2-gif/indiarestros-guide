@@ -35,6 +35,8 @@ IndiaRestros is India's open restaurant graph: restaurants, cafes, delivery kitc
 
 - [A highway dhaba guide: how to pick a good stop](highway-dhaba-guide.html)
 - [Finding biryani in Hyderabad: styles, budgets and how to check before you go](biryani-in-hyderabad-guide.html)
+- [Ask your AI where to eat: connecting an assistant to real restaurant data](ask-your-ai-where-to-eat.html)
+- [Masala dosa in Bengaluru: prices, neighbourhoods and how to find a good one](masala-dosa-bengaluru.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at IndiaRestros. For the latest data and features, always check [IndiaRestros](https://indiarestros.com/) directly.

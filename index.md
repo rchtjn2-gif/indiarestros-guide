@@ -33,3 +33,5 @@ IndiaRestros is India's open restaurant graph: restaurants, cafes, delivery kitc
 
 ---
 Maintained by Sunny Mittal, marketing lead at IndiaRestros. For the latest data and features, always check [IndiaRestros](https://indiarestros.com/) directly.
+
+See also: [IndiaRestros MCP server and API quickstart](mcp.html).

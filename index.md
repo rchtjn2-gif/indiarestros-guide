@@ -40,6 +40,8 @@ IndiaRestros is India's open restaurant graph: restaurants, cafes, delivery kitc
 - [Restaurant owners: how to claim and fix your IndiaRestros page for free](claim-your-restaurant-page.html)
 - [How IndiaRestros orders its restaurant lists (and why money is not in the formula)](how-restaurant-rankings-work.html)
 - [Kolkata's food scene by the numbers: 34,000+ places to eat](kolkata-food-by-the-numbers.html)
+- [Hyderabad food by the numbers: 61,528 places to eat, mapped](hyderabad-food-by-the-numbers.html)
+- [Indore food by the numbers: 13,136 places to eat, and a city of street food and chai](indore-food-by-the-numbers.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at IndiaRestros. For the latest data and features, always check [IndiaRestros](https://indiarestros.com/) directly.
